@@ -43,7 +43,7 @@
     <!-- From: file:/D:/Sam%20Extreme/GitHub/BluetoothLeGatt/Application/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="label_data">Data:</string>
-    <string name="label_device_address">Device address:</string>
+    <string name="label_device_address">Device addr:</string>
     <string name="label_state">State:</string>
     <string name="menu_connect">Connect</string>
     <string name="menu_disconnect">Disconnect</string>
